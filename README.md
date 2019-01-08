@@ -15,4 +15,4 @@ module.exports = {
 };
 ```
 
-#### [Мануал](https://habr.com/company/ruvds/blog/321104/)
+#### [Мануал из habr](https://habr.com/company/ruvds/blog/321104/)
